@@ -1,5 +1,5 @@
 const WIDTH = 700
-const HEIGHT = 800
+const HEIGHT = 850
 const PANEL_WTH = 250
 const GAME_WTH = WIDTH - PANEL_WTH
 
